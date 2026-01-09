@@ -2,11 +2,11 @@
 <p align="center"><i>Developer • Discord Bots • Clean Systems</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lyzral&label=PROFILE%20VIEWS&color=red&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=lyzral&label=PROFILE%20VIEWS&color=ff3b3b&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/lyzral?label=TOTAL%20STARS&style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/github/stars/lyzral?label=TOTAL%20STARS&style=for-the-badge&color=0b0b0b" />
 </p>
 
 <p align="center">
@@ -43,11 +43,11 @@ Everything is designed to be stable, readable, and production-ready.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyzral&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lyzral&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyzral&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyzral&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -57,5 +57,5 @@ Everything is designed to be stable, readable, and production-ready.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lyzral/lyzral/main/Banner%20Lyzral.png" alt="signature" />
+  <img src="./banner.png" alt="signature" />
 </p>
