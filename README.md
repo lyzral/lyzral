@@ -1,41 +1,42 @@
-<h1 align="center">lYZRAL</h1>
-<p align="center"><i>Developer • Discord Bots • Clean Architecture</i></p>
+<h1 align="center">LYZRAL</h1>
+<p align="center"><i>Developer • Discord Bots • Clean Systems</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=views&color=2b2b2b&style=flat" />
-  <img src="https://img.shields.io/github/followers/TON_USERNAME?label=followers&color=2b2b2b&style=flat" />
-  <img src="https://img.shields.io/github/stars/TON_USERNAME?label=stars&color=2b2b2b&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=PROFILE%20VIEWS&color=red&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/TON_USERNAME?label=TOTAL%20STARS&style=for-the-badge&color=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TON_USERNAME?label=FOLLOWERS&style=flat&color=2b2b2b" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEV-2b2b2b?style=flat" />
+  <img src="https://img.shields.io/badge/FOCUS-DISCORD%20BOTS-2b2b2b?style=flat" />
 </p>
 
 ---
 
-## About Me
+## About
 
-I build **reliable and high-performance Discord bots**,  
-with a strong focus on **clean code**, **modularity**, and **user experience**.
+I build **reliable and efficient Discord bots**,  
+with a strong focus on **performance**, **clean architecture**, and **control**.
 
-- ⚙️ Modular & scalable architectures  
-- 🔐 Advanced permission systems  
-- 🎧 Music / radio bots (Lavalink, SoundCloud, YouTube)  
-- 🎟️ Ticket & automation systems  
+My work is centered around:
+- ⚙️ Well-structured systems  
+- 🔐 Secure permission handling  
+- 🎧 Music & radio bots  
+- 🎟️ Automation & utility tools  
+
+Everything is designed to be **stable**, **readable**, and **production-ready**.
 
 ---
 
-## Tech Stack
+## Languages
 
-**Languages**
-- JavaScript (Node.js)
-- Python
-- Rust
-- C / C++
-
-**Frameworks & Tools**
-- discord.js v14
-- discord.py
-- Lavalink
-- PM2
-- Git & GitHub
-- Linux VPS
+- **C**
+- **JavaScript**
+- **Python**
 
 ---
 
@@ -49,19 +50,12 @@ with a strong focus on **clean code**, **modularity**, and **user experience**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
----
-
-## Contact
-
-- Discord: **TON_DISCORD**
-- GitHub: **github.com/TON_USERNAME**
-
 <p align="center">
-  <sub>"Simplicity first. Control always."</sub>
+  <sub>“Built clean. Shipped solid.”</sub>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/main/Banner%20Lyzral.png" alt="signature" />
+  <img src="https://raw.githubusercontent.com/lyzral/lyzral/main/Banner%20Lyzral.png" alt="signature" />
 </p>
