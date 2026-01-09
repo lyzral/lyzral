@@ -19,8 +19,8 @@
 
 ## About
 
-I build **reliable and efficient Discord bots**,  
-with a strong focus on **performance**, **clean architecture**, and **control**.
+I build reliable and efficient Discord bots,  
+with a strong focus on performance, clean architecture, and control.
 
 My work is centered around:
 - ⚙️ Well-structured systems  
@@ -28,7 +28,7 @@ My work is centered around:
 - 🎧 Music & radio bots  
 - 🎟️ Automation & utility tools  
 
-Everything is designed to be **stable**, **readable**, and **production-ready**.
+Everything is designed to be stable, readable, and production-ready.
 
 ---
 
