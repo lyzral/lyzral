@@ -1,4 +1,4 @@
-<h1 align="center">Quentin</h1>
+<h1 align="center">lYZRAL</h1>
 <p align="center"><i>Developer • Discord Bots • Clean Architecture</i></p>
 
 <p align="center">
