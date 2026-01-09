@@ -1,80 +1,67 @@
-<!-- GitHub Profile README -->
+<h1 align="center">Quentin</h1>
+<p align="center"><i>Developer • Discord Bots • Clean Architecture</i></p>
 
-<div align="center">
-
-# 👋 Hi, I'm @lyzral
-
-✨ Developer • Discord Bots • Automation • Clean Architecture  
-📍 Europe • Focused on performance & reliability
-
-<img src="https://komarev.com/ghpvc/?username=lyzral&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-<br/>
-
-<a href="https://github.com/lyzraldev">
-  <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://discord.com/">
-  <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=views&color=2b2b2b&style=flat" />
+  <img src="https://img.shields.io/github/followers/TON_USERNAME?label=followers&color=2b2b2b&style=flat" />
+  <img src="https://img.shields.io/github/stars/TON_USERNAME?label=stars&color=2b2b2b&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Working on **Discord bots** (protection, tickets, panels, automation)
-- 🧩 Strong focus on **modular structure, clean code, scalability**
-- ⚙️ Interested in **VPS deployment, PM2, optimization**
-- 🎯 Goal: **build reliable and efficient systems**
+## About Me
+
+I build **reliable and high-performance Discord bots**,  
+with a strong focus on **clean code**, **modularity**, and **user experience**.
+
+- ⚙️ Modular & scalable architectures  
+- 🔐 Advanced permission systems  
+- 🎧 Music / radio bots (Lavalink, SoundCloud, YouTube)  
+- 🎟️ Ticket & automation systems  
 
 ---
 
-## 🧰 Tech Stack
-<div align="center">
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,ts,discordjs,git,github,linux,vscode,html,css" />
+**Languages**
+- JavaScript (Node.js)
+- Python
+- Rust
+- C / C++
 
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lyzral&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyzral&layout=compact&hide_border=true&theme=transparent" />
-
-<br/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lyzral&hide_border=true&theme=transparent" />
-
-</div>
+**Frameworks & Tools**
+- discord.js v14
+- discord.py
+- Lavalink
+- PM2
+- Git & GitHub
+- Linux VPS
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lyzral&theme=flat&no-frame=true&row=1&column=7" />
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyzral&theme=github-compact&hide_border=true" />
-</div>
+## Contact
+
+- Discord: **TON_DISCORD**
+- GitHub: **github.com/TON_USERNAME**
+
+<p align="center">
+  <sub>"Simplicity first. Control always."</sub>
+</p>
 
 ---
 
-## 🤝 Contact
-- Discord: `lyzral`
-- GitHub: https://github.com/lyzral
-
----
-
-<div align="center">
-
-⭐ Feel free to follow or star repositories you find useful.
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/main/Banner%20Lyzral.png" alt="signature" />
+</p>
