@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Oi,%20I'm%20Lyzral&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=FiveM%20Developer%20•%20Bot%20Developer%20•%20France&descSize=20&descAlignY=55)](https://github.com/lyzral)
 
-# 🌌 lyzral (aka Dark)
+# 🌌 lyzral 
 
 ![Profile views](https://komarev.com/ghpvc/?username=lyzral&label=Profile%20views&color=7745bf&)
 [![Linktree](https://img.shields.io/badge/Linktree-Lyzral-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/Lyzral)
