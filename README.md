@@ -3,7 +3,6 @@
 # 🌌 S e i . せい
 
 ![Profile views](https://komarev.com/ghpvc/?username=lyzral&label=Profile%20views&color=7745bf&)
-[![Linktree](https://img.shields.io/badge/Linktree-Lyzral-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/sei)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=FiveM+Development;Bot+Developer;HTML+%2F+CSS+Design;Final+Fantasy+Addict" alt="Typing SVG" />
