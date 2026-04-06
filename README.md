@@ -18,8 +18,6 @@
 - 🎮 Fan inconditionnel de **Final Fantasy**.
 - 💻 Système : **Windows**.
 
-> [!IMPORTANT]
-> "Projet Five M discord.gg/jnQDVd7jqb"
 
 ## 🔗 Me trouver
 - 💬 **Discord** : @blcdetoi
