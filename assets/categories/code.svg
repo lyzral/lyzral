@@ -1,0 +1,54 @@
+<svg width="560" height="230" viewBox="0 0 560 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FAFAFA"/>
+    <stop offset="1" stop-color="#D4D4D4"/>
+  </linearGradient>
+  <linearGradient id="side" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#808080"/>
+    <stop offset="1" stop-color="#5C5C5C"/>
+  </linearGradient>
+  <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#C89F6B"/>
+    <stop offset="1" stop-color="#9A7443"/>
+  </linearGradient>
+</defs>
+
+<!-- C -->
+<g transform="translate(33,18)">
+  <ellipse cx="62" cy="172" rx="72" ry="7" fill="#000" opacity=".22"/>
+  <g transform="translate(12,10)"><path d="M110 0 V30 H30 V110 H110 V140 H0 V0 Z" fill="url(#side)"/></g>
+  <rect x="-8" y="140" width="126" height="26" rx="5" fill="url(#wood)"/>
+  <path d="M2 148 H118 M2 157 H118" stroke="#8A6B45" stroke-width="2" opacity=".55"/>
+  <path d="M110 0 V30 H30 V110 H110 V140 H0 V0 Z" fill="url(#face)"/>
+</g>
+
+<!-- O -->
+<g transform="translate(161,18)">
+  <ellipse cx="62" cy="172" rx="72" ry="7" fill="#000" opacity=".22"/>
+  <g transform="translate(12,10)"><path d="M0 0 H110 V140 H0 Z M30 30 H80 V110 H30 Z" fill="url(#side)" fill-rule="evenodd"/></g>
+  <rect x="-8" y="140" width="126" height="26" rx="5" fill="url(#wood)"/>
+  <path d="M2 148 H118 M2 157 H118" stroke="#8A6B45" stroke-width="2" opacity=".55"/>
+  <path d="M0 0 H110 V140 H0 Z M30 30 H80 V110 H30 Z" fill="url(#face)" fill-rule="evenodd"/>
+</g>
+
+<!-- D -->
+<g transform="translate(289,18)">
+  <ellipse cx="62" cy="172" rx="72" ry="7" fill="#000" opacity=".22"/>
+  <g transform="translate(12,10)"><path d="M0 0 H70 L110 40 V100 L70 140 H0 Z M30 30 H60 L80 50 V90 L60 110 H30 Z" fill="url(#side)" fill-rule="evenodd"/></g>
+  <rect x="-8" y="140" width="126" height="26" rx="5" fill="url(#wood)"/>
+  <path d="M2 148 H118 M2 157 H118" stroke="#8A6B45" stroke-width="2" opacity=".55"/>
+  <path d="M0 0 H70 L110 40 V100 L70 140 H0 Z M30 30 H60 L80 50 V90 L60 110 H30 Z" fill="url(#face)" fill-rule="evenodd"/>
+</g>
+
+<!-- E -->
+<g transform="translate(417,18)">
+  <ellipse cx="62" cy="172" rx="72" ry="7" fill="#000" opacity=".22"/>
+  <g transform="translate(12,10)"><path d="M0 0 H110 V30 H30 V55 H95 V85 H30 V110 H110 V140 H0 Z" fill="url(#side)"/></g>
+  <rect x="-8" y="140" width="126" height="26" rx="5" fill="url(#wood)"/>
+  <path d="M2 148 H118 M2 157 H118" stroke="#8A6B45" stroke-width="2" opacity=".55"/>
+  <path d="M0 0 H110 V30 H30 V55 H95 V85 H30 V110 H110 V140 H0 Z" fill="url(#face)"/>
+</g>
+
+<text x="280" y="216" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" letter-spacing="4" fill="#7A7A7A">LANGUAGES</text>
+</svg>
