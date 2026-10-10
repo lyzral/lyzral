@@ -21,7 +21,7 @@
 
 ---
 
-## `01` — About https://media.discordapp.net/attachments/1541074153933766710/1558583763565289634/IMG_3422.png?ex=6acbf7be&is=6acaa63e&hm=ccbb6aa659f19128c6c696d17cb3d4c9fcfd73645ef30a189cde66420314cf92&=&format=webp&quality=lossless&width=710&height=1536
+## `01` — About
 
 I build, test and refine digital projects with an emphasis on clean interfaces, automation and modern tooling. AI-assisted workflows are part of how I research, prototype, debug and ship — from early architecture decisions to the final deployment.
 
