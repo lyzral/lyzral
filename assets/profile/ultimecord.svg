@@ -1,0 +1,27 @@
+<svg width="420" height="190" viewBox="0 0 420 190" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1030"/>
+      <stop offset="1" stop-color="#150c26"/>
+    </linearGradient>
+    <linearGradient id="icon-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c9a6ff"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="418" height="188" rx="14" fill="url(#card-bg)" stroke="#3d2a66"/>
+
+  <circle cx="34" cy="38" r="16" fill="url(#icon-grad)"/>
+  <text x="34" y="43" text-anchor="middle" font-size="15" font-weight="700" fill="#150c26">UC</text>
+
+  <text x="60" y="44" font-size="19" font-weight="700" fill="#f1e9ff">Ultime Cord</text>
+
+  <text x="24" y="86" font-size="13.5" fill="#cbb7f5">Discord, made your own.</text>
+  <text x="24" y="106" font-size="13.5" fill="#cbb7f5">778+ plugins, themes and more.</text>
+
+  <g transform="translate(24,138)">
+    <text x="0" y="14" font-size="14" font-weight="600" fill="#c9a6ff">Explore Ultime Cord</text>
+    <path d="M152 9 L162 9 M157 4 L162 9 L157 14" stroke="#c9a6ff" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

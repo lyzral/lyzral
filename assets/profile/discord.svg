@@ -1,0 +1,7 @@
+<svg width="110" height="32" viewBox="0 0 110 32" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <rect x="1" y="1" width="108" height="30" rx="15" fill="#1a1033" stroke="#5865F2"/>
+  <rect x="14" y="10" width="17" height="12" rx="5" fill="#5865F2"/>
+  <circle cx="18.5" cy="16" r="1.8" fill="#1a1033"/>
+  <circle cx="26.5" cy="16" r="1.8" fill="#1a1033"/>
+  <text x="68" y="20.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#d9c8ff">Discord</text>
+</svg>
