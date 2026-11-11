@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="176" viewBox="0 0 400 176">
+<defs><linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#b79bff"/><stop offset="1" stop-color="#6d3df0"/>
+</linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#191428"/><stop offset="1" stop-color="#110e1b"/></linearGradient>
+<radialGradient id="cg" cx="0%" cy="0%" r="80%"><stop offset="0" stop-color="#7c4dff" stop-opacity=".22"/><stop offset="1" stop-color="#7c4dff" stop-opacity="0"/></radialGradient>
+<clipPath id="ic"><rect x="24" y="24" width="44" height="44" rx="11"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="399" height="175" rx="15.5" fill="url(#bg)" stroke="#a78bfa" stroke-opacity=".24"/>
+<rect x=".5" y=".5" width="399" height="175" rx="15.5" fill="url(#cg)"/>
+<rect x="24" y="24" width="44" height="44" rx="11" fill="url(#mark)"/>
+<path d="M53 34.500a12.500 12.500 0 1 0 5.500 16.800A10 10 0 0 1 53 34.500z" fill="#fff"/>
+<text x="82" y="43" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#fff">Aluna</text>
+<text x="82" y="62" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" fill="#8f84b3">Discord community</text>
+<text x="24" y="100" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#c9bfe4">Cybersecurity and development: research,</text>
+<text x="24" y="121" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#c9bfe4">tooling, dev help and collaboration.</text>
+<text x="24" y="153" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#b79bff">Join Aluna</text>
+<path d="M103 148.500h12m-4.500-4.500 4.500 4.500-4.500 4.500" fill="none" stroke="#b79bff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

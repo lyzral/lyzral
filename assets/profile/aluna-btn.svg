@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="36" viewBox="0 0 96 36">
+<rect x=".5" y=".5" width="95" height="35" rx="10" fill="#15111f" stroke="#a78bfa" stroke-opacity=".35"/>
+<g transform="translate(15 9)" fill="#c9b4ff"><path d="M13.500 2.500a8 8 0 1 0 3.500 10.800A6.400 6.400 0 0 1 13.500 2.500z"/></g>
+<text x="42" y="23" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#ece6ff">Aluna</text>
+</svg>
