@@ -1,22 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="176" viewBox="0 0 400 176">
-<defs><linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#cfcfcf"/>
-</linearGradient>
-<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
-  <stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#181818"/><stop offset="1" stop-color="#101010"/></linearGradient>
-<radialGradient id="cg" cx="0%" cy="0%" r="80%"><stop offset="0" stop-color="#6f6f6f" stop-opacity=".22"/><stop offset="1" stop-color="#6f6f6f" stop-opacity="0"/></radialGradient>
-<clipPath id="ic"><rect x="24" y="24" width="44" height="44" rx="11"/></clipPath>
-</defs>
-<rect x=".5" y=".5" width="399" height="175" rx="15.5" fill="url(#bg)" stroke="#c8c8c8" stroke-opacity=".24"/>
-<rect x=".5" y=".5" width="399" height="175" rx="15.5" fill="url(#cg)"/>
-<rect x="24" y="24" width="44" height="44" rx="11" fill="url(#mark)"/>
-<path d="M53 34.500a12.500 12.500 0 1 0 5.500 16.800A10 10 0 0 1 53 34.500z" fill="#fff"/>
-<text x="82" y="43" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#fff">Aluna</text>
-<text x="82" y="62" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" fill="#b0b0b0">Discord community</text>
-<text x="24" y="100" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#f8f8f8">Cybersecurity and development: research,</text>
-<text x="24" y="121" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#f8f8f8">tooling, dev help and collaboration.</text>
-<text x="24" y="153" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#dbdbdb">Join Aluna</text>
-<path d="M103 148.500h12m-4.500-4.500 4.500 4.500-4.500 4.500" fill="none" stroke="#dbdbdb" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="230" viewBox="0 0 420 230">
+<defs><radialGradient id="cg" cx="100%" cy="0%" r="90%"><stop offset="0" stop-color="#f2f0ec" stop-opacity=".09"/><stop offset="1" stop-color="#f2f0ec" stop-opacity="0"/></radialGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#141414"/><stop offset="1" stop-color="#0c0c0c"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2f0ec" stop-opacity=".38"/><stop offset=".5" stop-color="#f2f0ec" stop-opacity=".08"/><stop offset="1" stop-color="#f2f0ec" stop-opacity=".2"/></linearGradient>
+<clipPath id="ic"><rect x="24" y="24" width="46" height="46" rx="12"/></clipPath></defs>
+<rect x=".5" y=".5" width="419" height="229" rx="18" fill="url(#bg)"/><rect x=".5" y=".5" width="419" height="229" rx="18" fill="url(#cg)" stroke="url(#edge)"/>
+<rect x="24" y="24" width="46" height="46" rx="12" fill="#f2f0ec"/><path d="M52 36a12 12 0 1 0 5.5 16.5A9.5 9.5 0 0 1 52 36z" fill="#0a0a0a"/>
+<text x="84" y="44" font-family="'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="-.5" fill="#f2f0ec">Aluna</text>
+<text x="84" y="64" font-family="'JetBrains Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="11.5" fill="#8f8c87">community</text>
+<rect x="343" y="24" width="53" height="22" rx="11" fill="none" stroke="#f2f0ec" stroke-opacity=".18"/>
+<circle cx="355" cy="35" r="3.5" fill="#7dd87d"/>
+<text x="388" y="39" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="11" fill="#bdbab4">open</text>
+<text x="24" y="110" font-family="'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif" font-style="italic" font-size="22" fill="#f2f0ec">Security &amp; dev, together.</text>
+<text x="24" y="134" font-family="'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13.5" fill="#9a9792">Research, tooling, dev help and collaboration.</text>
+<g transform="translate(0 152)" font-family="'JetBrains Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="11" fill="#bdbab4"><rect x="24" y="0" width="104" height="22" rx="11" fill="none" stroke="#f2f0ec" stroke-opacity=".18"/><text x="76" y="15" text-anchor="middle">Cybersecurity</text><rect x="134" y="0" width="91" height="22" rx="11" fill="none" stroke="#f2f0ec" stroke-opacity=".18"/><text x="180" y="15" text-anchor="middle">Development</text></g>
+<path d="M24 190.5h372" stroke="#f2f0ec" stroke-opacity=".08"/>
+<text x="24" y="213" font-family="'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f2f0ec">Join the server &#8594;</text>
 </svg>
